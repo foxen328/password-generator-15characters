@@ -23,7 +23,7 @@ function handleGeneratePasswords() {
   passwordTwo.textContent = "";
 
   // Generate new passwords
-  const storedPasswordOne = generatePwd(15);
+  const storedPasswordOne = generatePwd(15); //set the passed value to 15, this ensures the character limit is set
   const storedPasswordTwo = generatePwd(15);
 
   // Display the new passwords in the text boxes
