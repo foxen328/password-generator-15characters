@@ -50,4 +50,6 @@ h2 {
     background-color: #273549;
     margin: 10px;
     width: 200px;
+    border: none;
+    border-radius: 10px;
 }
