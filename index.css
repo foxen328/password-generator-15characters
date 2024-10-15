@@ -4,6 +4,14 @@ body {
     background-color: #1F2937;
     align-content: top;
     text-align: center;
+
+}
+
+.body-generator {
+    border: solid white 5px;
+    width: 600px;
+    height: fit-content;
+    align-content: center;
 }
 
 #btn-pwd {
@@ -41,5 +49,5 @@ h2 {
 #pwd-two {
     background-color: #273549;
     margin: 10px;
-    width: 100px;
+    width: 200px;
 }
